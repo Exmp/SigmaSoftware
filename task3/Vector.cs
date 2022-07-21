@@ -77,7 +77,6 @@ namespace task3
             }
             return result;
         }
-
         public static int[] GetMaxSequence(int[] arr)
         {
             int j = 0;
